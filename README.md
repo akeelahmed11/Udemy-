@@ -5,12 +5,12 @@
 
 Its a bunch of open ended questions:
 
-##What are the best free courses by subject?
+1.What are the best free courses by subject?
 
-##What are the most popular courses?
+2.What are the most popular courses?
 
-What are the most engaging courses?
+3.What are the most engaging courses?
 
-How are courses related?
+4.How are courses related?
 
-Which courses offer the best cost benefit?
+5.Which courses offer the best cost benefit?
